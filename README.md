@@ -78,10 +78,10 @@ Location: `14 - C# - Level 1/Windows Forms/`
 
 - `Calculator`
 - `Drawing`
-- `Pizzza`
+- `Pizzza` (Pizza app exercises)
 - `Simple Encryption`
 - `SimpleCafeShop`
-- `TheGaemForm`
+- `TheGaemForm` (TheGameForm)
 - `Tic-Tac-Toe Refactored Ver`
 - `Tic-Tac-Toe2`
 - `To-Do-List`
