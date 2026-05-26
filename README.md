@@ -52,10 +52,10 @@ This section contains hands-on projects where I practice:
 |---|---|
 | `Calculator` | Calculator UI and operations practice |
 | `Drawing` | Graphics and drawing-related practice |
-| `Pizzza` | Pizza ordering/app flow practice |
+| `Pizzza` (`Pizza`) | Pizza ordering/app flow practice |
 | `Simple Encryption` | Basic encryption/decryption UI workflow |
 | `SimpleCafeShop` | Café/shop ordering system practice |
-| `TheGaemForm` | Game-form logic practice |
+| `TheGaemForm` (`TheGameForm`) | Game-form logic practice |
 | `Tic-Tac-Toe Refactored Ver` | Refactored Tic-Tac-Toe implementation |
 | `Tic-Tac-Toe2` | Alternate Tic-Tac-Toe implementation |
 | `To-Do-List` | Task list manager app |
