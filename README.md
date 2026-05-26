@@ -46,20 +46,7 @@ This section contains hands-on projects where I practice:
 - Form state management
 - App logic implementation
 
-### Main Windows Forms Projects
 
-| Project Folder | Description |
-|---|---|
-| `Calculator` | Calculator UI and operations practice |
-| `Drawing` | Graphics and drawing-related practice |
-| `Pizzza` (`Pizza`) | Pizza ordering/app flow practice |
-| `Simple Encryption` | Basic encryption/decryption UI workflow |
-| `SimpleCafeShop` | Café/shop ordering system practice |
-| `TheGaemForm` (`TheGameForm`) | Game-form logic practice |
-| `Tic-Tac-Toe Refactored Ver` | Refactored Tic-Tac-Toe implementation |
-| `Tic-Tac-Toe2` | Alternate Tic-Tac-Toe implementation |
-| `To-Do-List` | Task list manager app |
-| `Windows Power` | Windows Forms feature practice |
 
 ### Additional Practice Folders
 
