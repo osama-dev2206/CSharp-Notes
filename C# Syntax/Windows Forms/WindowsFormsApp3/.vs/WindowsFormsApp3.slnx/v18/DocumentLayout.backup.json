@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\WindowsFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4858B28A-FC26-4033-B6A1-8159AF6BABAC}|..\\WindowsFormsApp\\WindowsFormsApp.csproj|e:\\projects\\c#\\14 - c# - level 1\\windows forms\\windowsformsapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4858B28A-FC26-4033-B6A1-8159AF6BABAC}|..\\WindowsFormsApp\\WindowsFormsApp.csproj|e:\\projects\\c#\\14 - c# - level 1\\windows forms\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4858B28A-FC26-4033-B6A1-8159AF6BABAC}|..\\WindowsFormsApp\\WindowsFormsApp.csproj|e:\\projects\\c#\\14 - c# - level 1\\windows forms\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4858B28A-FC26-4033-B6A1-8159AF6BABAC}|..\\WindowsFormsApp\\WindowsFormsApp.csproj|e:\\projects\\c#\\14 - c# - level 1\\windows forms\\windowsformsapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\WindowsFormsApp\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp\\Form2.cs",
+              "ToolTip": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\WindowsFormsApp\\Form2.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp\\Form2.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA8wCsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:02:16.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\WindowsFormsApp\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp\\Form2.cs",
+              "ToolTip": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\WindowsFormsApp\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T15:59:27.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp\\Form1.cs",
+              "ToolTip": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\WindowsFormsApp\\Form1.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp\\Form1.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAA+wJoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:59:20.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp\\Form1.cs",
+              "ToolTip": "E:\\projects\\C#\\14 - C# - Level 1\\Windows Forms\\WindowsFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:57:59.883Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
